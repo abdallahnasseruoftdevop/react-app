@@ -1,8 +1,8 @@
 {
-  "homepage": "/",
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage":"http://abdallahnasseruoftdevop.github.io/react-app",
   "dependencies": {
     "@formspree/react": "^2.2.5",
     "@testing-library/jest-dom": "^5.14.1",
